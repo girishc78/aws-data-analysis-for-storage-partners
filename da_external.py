@@ -2,6 +2,9 @@
 # Author: Girish Chanchlani
 # Feb 13th 2022
 
+# PLEASE NOTE: This program is not intended to be used in production environment. The aim here is to learn how to use AWS AI/ML APIs. 
+# Use this at your own risk. You will incur AWS charges by using these APIs, please check individual service pricing for more details. 
+
 import logging
 from queue import Empty
 import sys
